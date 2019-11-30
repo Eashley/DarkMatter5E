@@ -1,0 +1,266 @@
+Myr Ith
+Amoeboid
+Lv 3 Order of Blinknights Channeler
+---------------------------------------------------------------------------------------------------
+ALIGNMENT        FAITH    GENDER   SIZE    EYES                     HAIR   SKIN                            AGE   HEIGHT   WEIGHT
+chaotic nuetral  ?        M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color       87    5'1"     160lb
+---------------------------------------------------------------------------------------------------
+MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE
+?           ?               0         3/3           ?         ?       2       ?
+---------------------------------------------------------------------------------------------------
+DEFENSES (R/I/V)   CONDITIONS
+None               None
+---------------------------------------------------------------------------------------------------
+STATS              SAVES (X/P)    PASSIVES                    SENSES
+STR: (+0) 10       STR: X +0      INT (Investigation) +10     ?
+DEX: (+0) 10       DEX: X +0      WIS (Insight)       +10
+CON: (+0) 10       CON: X +0      WIS (Perception)    +10
+INT: (+2) 10       INT: X +2
+WIS: (+0) 10       WIS: X +0
+CHA: (+1) 10       CHA: X +2
+---------------------------------------------------------------------------------------------------
+SKILLS (X/P/E)
+(X) Acrobatics      +0      (X) Insight       +0      (X) Persuasion      +0
+(X) Animal Handling +0      (X) Intimidatio   +0      (X) Piloting        +0
+(X) Arcana          +2      (X) Investigation +2      (X) Religion        +0
+(X) Athletics       +0      (X) Medicine      +2      (X) Sleight of Hand +0
+(X) Data            +0      (X) Nature        +0      (x) Stealth         +0
+(X) Deception       +0      (X) Perception    +0      (X) Survival        +0
+(X) History         +2      (X) Performance   +0      (X) Technology      +0
+---------------------------------------------------------------------------------------------------
+PROFICIENCIES
+Armor:     light armor, medium armor, heavy armor
+Weapons:   simple weapons, martial weapons
+Tools:     Alchemist's supplies, herbalist's kit
+Languages: Common, Amoeboid, (If you are
+transformed into a creature that has a language, you can
+speak and understand that language.)
+---------------------------------------------------------------------------------------------------
+BACKGROUND: Ship's Doctor
+
+Feature: Xenobiology
+Having seen many strange things on your travels, you
+have developed an instinctive understanding of alien
+biologies. Whenever you encounter a creature you
+have never seen before, you are able to make a few
+observations and deductions about it, gaining an idea of
+how dangerous it could be, what its weaknesses might be,
+or how it would behave in response to a given stimulus.
+
+Crime:   Many, but all un
+PTrait:  I'm constantly reading up on other races that I find. 
+Ideal:   Secrets
+Bond:    A terminal patient in my care charged me with completing their life's work:
+Flaw:    I focus solely on immediate problems, and often forget the bigger picture.
+
+---------------------------------------------------------------------------------------------------
+Backstory:
+A doctor for the Tower orginization. I conduct research into different races across the galaxy and report back to The Tower at regular intervals in secret. A childhood friend, Yrrth Mid, got killed by a mysterious poison in front of me when I was 22, and I believe more knowledge about the poison can be found in the tower archives. My goal is to gain the trust of the tower arcanists to allow me to research at my leisure.
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+ATTACKS
+WEAPON                 TO HIT       DAMAGE              MISC
+?                      ?            ?   TYPE            ?
+---------------------------------------------------------------------------------------------------
+RACIAL FEATURES
+Flexible Form. You can use your action to stretch,
+compress, and mold your body into a myriad of shapes.
+You can transform into any static form that you choose
+that is no larger than 8 feet in any dimension. When you
+assume this form, you can replicate something’s basic
+shape but not its color, texture, moving parts, or fine
+details. You can’t change your body’s volume, nor can you
+move, attack, or cast spells while you’re transformed into
+a static shape.
+You can also use your action to touch a living creature
+and assume its general form. Your size and other statistics
+don’t change. You gain the ability to speak and understand
+that creature’s language, and if the target has a burrowing,
+climbing, or swimming speed, you gain those with the
+same speed, up to a maximum of 40 feet.
+Your transformation ends after 1 hour, or when you
+choose to end it on your turn (no action required). If you
+transform into a form incapable of wearing armor, your
+armor falls off. You can only take actions while you’re
+transformed if you are in the form of a creature, and you
+can only take actions that creature would be able to take.
+Amorphous. You can compress your body enough to
+squeeze through a 1-inch wide space. You can't expand
+inside a space that offers any resistance.
+Reform. Whenever you take bludgeoning, piercing,
+or slashing damage from a nonmagical weapon and
+don't drop to 0 hit points, you can use your reaction to
+immediately regain 1d4 hit points, up to a maximum of
+the amount of damage taken.
+---------------------------------------------------------------------------------------------------
+FEATS
+None
+---------------------------------------------------------------------------------------------------
+CLASS FEATURES
+Arcane Reverberation
+At 1st level, you can sense the reverberations magic leaves
+in the air. By spending your action concentrating on an
+object that you touch, you can make an Intelligence check
+to determine if the object is under the effect of magic or if
+it is within the area of any spells (DC equals 10 + the
+spell’s level). You learn the school of magic, if any. If the
+object is a magic item, you feel an intense amount of
+energy, but can't directly determine the
+type of item, or its properties.
+
+Combat Casting. Being within 5 feet of a hostile
+creature doesn’t impose disadvantage on your ranged spell
+attack rolls.
+
+Spell Channeling
+By 2nd level, you have mastered the art of channeling
+spells through your weapon strikes. When you make a spell
+attack against a creature within your reach while holding a
+melee weapon that isn’t heavy, you can use your bonus
+action to substitute the spell attack with a melee weapon
+attack. On a hit, the attack deals normal damage, in
+addition to the effects of the spell.
+Starting at 5th level, or when you gain a feature such as
+Extra Attack that allows you to make more than one attack
+when you take the Attack action, this ability improves.
+When you use this ability to substitute a spell attack roll,
+you can make a second melee attack against a different
+target within your reach. The effects of the spell are only
+triggered on the first hit.
+
+Arcana Points
+You have a pool of arcana points, which you can use to cast
+spells of 1st level and higher. The Arcana Point Cost table
+summarizes the number of arcana points required to
+produce a spell slot of 1st to 5th level. Cantrips don’t
+require spell slots and therefore don’t require arcana points.
+The Channeler table shows how many arcana points you
+have and when your point pool increases. You regain all
+expended arcana points when you finish a long rest.
+Arcana Point Cost
+Spell Level |Point Cost
+1st         |2
+2nd         |3
+3rd         |5
+4th         |6
+5th         |7
+
+Spells Known of 1st Level or Higher
+You know four first-level spells of your choice from the
+channeler spell list. The channeler table shows when you
+learn more channeler spells of your choice. A spell you
+choose must be of a level no higher than what’s shown on
+the Max Spell Level column for your level.
+Additionally, when you gain a level in this class, you
+can choose one of the channeler spells you know and
+replace it with another spell from the channeler spell list,
+which also must be of a level no higher than what’s shown
+on the Max Spell Level column.
+Spellcasting Ability
+Intelligence is your spellcasting ability for your channeler
+spells, since you learn your spells by studying and
+memorizing sigil sequences to planar gates. You use your
+Intelligence whenever a spell refers to your spellcasting
+ability. In addition, you use your Intelligence modifier
+when setting the saving throw DC for a channeler spell you
+cast and when making an attack roll with one.
+
+Spell save DC = 8 + your proficiency bonus + your Intelligence modifier
+
+Spell attack modifier = your proficiency bonus + your Intelligence modifier
+
+Spellcasting Focus
+You can use a melee weapon that isn’t heavy as a
+spellcasting focus for your channeler spells.
+
+Planar Focus
+Beginning at 3rd level, you can narrow your focus to
+channel energy from a particular part of the multiverse.
+You can use your bonus action to begin or end a planar
+focus. Once on each of your turns, you can switch your
+active focus. You maintain this effect as if concentrating on
+a spell.
+Channeler as a Half-Caster
+Though the channeler class uses arcane points in
+place of conventional spell slots, this does not
+exempt it from interacting with multiclassing or
+other optional rules for spellcasters.
+Multiclassing, as well as other rules which refer
+to the Spellcasting feature, treat the Channeler as a
+Half-Caster, such as a Paladin or Ranger. If the
+channeler multiclasses with another spellcaster,
+convert the total number of spell slots of 5th level
+or lower from the multiclass table into arcana
+points using the Arcana Point Cost table. Arcana
+points can only be used to cast spells of 5th level
+and lower.
+
+You have the following four focus options:
+
+Elemental Air. Your movement speed increases by 10
+feet, you can stand from being prone without using any
+movement, and opportunity attacks against you have
+disadvantage.
+
+Elemental Earth. While you are not holding a shield,
+your armor class increases by 2.
+
+Elemental Fire. When you roll a 1 or 2 on a damage die
+for a channeler spell, you can reroll the die and must use
+the new roll, even if the new roll is a 1 or a 2.
+
+Elemental Water. Whenever you take acid, cold, fire,
+lightning, or thunder damage and you do not have
+resistance to that type of damage, you can use your reaction
+to halve the damage taken.
+---------------------------------------------------------------------------------------------------
+ATTUNEMENT          CONSTRUCT GRAFTS
+1.                  Head:          External: 
+2.                  Arms:          Internal: 
+3.                  Legs: 
+---------------------------------------------------------------------------------------------------
+SHIP
+NAME      MODEL    RACE    SIZE     IMPULSE   MANEUVER   DMEC   MAX HP   HP   SP   AC
+?         ?        ?       ?        ?         ?          ?      ?        ?    ?    ?
+
+CREW                   SYSTEMS (Y/N)
+Captain:    None       (N) Arcane Cannon    (N) Life Pods          (N) Shuttle        (N) Umbilicus
+Dogfighter: None       (N) Cloaking         (N) Life Support       (N) Sickbay
+Engineer:   None       (N) Communications   (N) Probe              (N) Simulation
+Gunner:     None       (N) Fabricator       (N) Sensors            (N) Teleporters
+Pilot:      None       (N) Hypercapacitor   (N) Shield Generator   (N) Tractor Beam
+
+MISC INFO
+Crew:   ?
+Cargo:  ?
+
+ABILITIES
+?
+
+WEAPON          TO HIT     DAMAGE             Range        FACING        CHARACTER
+?               ?          ? Mega TYPE        ?            ?             ?
+---------------------------------------------------------------------------------------------------
+EQUIPMENT    CREDITS: ? (GOLD SYSTEM TO CREDITS CONVERSION: 5g 7s 3c = 5.73C)
+WEAPONS (EXAMPLE WEAPON ENTRY: QUANTITY, RARITY, NAME, DAMAGE, PROPERTIES)
+1x  (c) Longsword
+1x  (c) Light Crossbow
+
+GEAR (EXAMPLE GEAR ENTRY: QUANTITY, RARITY, NAME, MISC INFO)
+1x  (C) Backback
+20x (c) Bolts
+1x  (c) Scale Mail               AC = 14 + Dex, Stealth DA
+1x  (c) Material Component Pouch
+1x  (c) Book of Lore
+1x  (c) Bottle of Ink
+1x  (c) Ink Pen
+10x (c) Sheet of Parchment
+1x  (c) Little Bag of Sand
+1x  (c) A Small Knife
+
+---------------------------------------------------------------------------------------------------
+DATAPAD 1297649: 0/2000 PAGES USED
+---------------------------------------------------------------------------------------------------
+LOGKEEPER: 0/72 HOURS USED
+--------------------------------------------------------------------------------------------------- 
