@@ -5,8 +5,8 @@ Lv 3 Order of Blinknights Channeler
 ALIGNMENT        FAITH    GENDER   SIZE    EYES                     HAIR   SKIN                        AGE   HEIGHT   WEIGHT
 chaotic nuetral  ?        M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color   87    5'1"     160lb
 ---------------------------------------------------------------------------------------------------
-MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE
-28          28              0         3/3 ( 1d10 )  +3        16      2       30ft
+MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE  ARCANA PTS
+28          28              0         3/3 ( 1d10 )  +3        16      2       30ft  6/6
 ---------------------------------------------------------------------------------------------------
 DEFENSES (R/I/V)   CONDITIONS
 None               None
@@ -35,9 +35,6 @@ Tools:     Alchemist's supplies, herbalist's kit
 Languages: Common, Amoeboid, (If you are
 transformed into a creature that has a language, you can
 speak and understand that language.)
----------------------------------------------------------------------------------------------------
-Arcana Points
-6 / 6
 ---------------------------------------------------------------------------------------------------
 SPELLS:
 Cantrips:
