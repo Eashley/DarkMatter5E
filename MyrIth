@@ -6,7 +6,7 @@ ALIGNMENT        FAITH    GENDER   SIZE    EYES                     HAIR   SKIN 
 chaotic nuetral  ?        M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color       87    5'1"     160lb
 ---------------------------------------------------------------------------------------------------
 MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE
-?           ?               0         3/3           ?         ?       2       ?
+10          10              0         3/3 ( 1d10 )  ?         ?       2       ?
 ---------------------------------------------------------------------------------------------------
 DEFENSES (R/I/V)   CONDITIONS
 None               None
@@ -36,6 +36,70 @@ Languages: Common, Amoeboid, (If you are
 transformed into a creature that has a language, you can
 speak and understand that language.)
 ---------------------------------------------------------------------------------------------------
+Arcana Points
+6 / 6
+---------------------------------------------------------------------------------------------------
+SPELLS:
+Cantrips:
+- Shocking Grasp   - https://www.dndbeyond.com/spells/shocking-grasp
+- Produce Flame    - https://www.dndbeyond.com/spells/produce-flame
+- Prestidigitation - https://www.dndbeyond.com/spells/prestidigitation
+
+1st Level:
+- Command      - https://www.dndbeyond.com/spells/command
+- Detect Magic - https://www.dndbeyond.com/spells/detect-magic
+
+- Flawed Reconstruction
+Flawed Reconstruction
+1st-level transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a needle and thread)
+Duration: Instantaneous
+You stitch together the wounds of a creature you touch,
+which regains 4d6 hit points. However, the mending
+is imperfect, and the target's maximum hit points is
+decreased by the same amount until it finishes a long rest.
+A creature that regains hit points due to this spell will be
+left with some permanent scars.
+At Higher Levels. When you cast this spell using a
+spell slot of 2nd level or higher, the healing and maximum
+hit point reduction increases by 1d6 for each slot level
+above 1st.
+
+- Icicle Javelin -
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (a small icicle)
+Duration: Instantaneous
+You fling a massive icicle toward a target of your choice
+within range. Make a ranged spell attack against the target.
+On a hit, the target takes 3d8 cold damage. If the target is
+also adjacent to a wall, or a similar large, immobile object,
+it may also be pinned to that surface on its next turn. At the
+beginning of its turn, the target can make a Strength saving
+throw. On a failed save, it has a speed of 0 until the end of
+its turn.
+At Higher Levels. When you cast this spell using a spell
+slot of 2nd level or higher, the damage increases by 1d8 for
+each slot level above 1st.
+
+- Boomering -
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+A dizzying ring of sparks launches from your outstretched
+hand and returns to it moments later. Make a ranged spell
+attack roll against a creature within range. On a hit, you
+deal 3d6 radiant damage. If this attack misses, you can
+repeat the attack roll against the same target once.
+At Higher Levels. When you cast this spell using a spell
+slot of 2nd level or higher, the damage increases by 1d6 for
+each slot level above 1st.
+
+
+---------------------------------------------------------------------------------------------------
 BACKGROUND: Ship's Doctor
 
 Feature: Xenobiology
@@ -55,7 +119,11 @@ Flaw:    I focus solely on immediate problems, and often forget the bigger pictu
 
 ---------------------------------------------------------------------------------------------------
 Backstory:
-A doctor for the Tower orginization. I conduct research into different races across the galaxy and report back to The Tower at regular intervals in secret. A childhood friend, Yrrth Mid, got killed by a mysterious poison in front of me when I was 22, and I believe more knowledge about the poison can be found in the tower archives. My goal is to gain the trust of the tower arcanists to allow me to research at my leisure.
+A doctor for the Tower orginization. 
+I conduct research into different races across the galaxy and report back to The Tower at regular intervals in secret.
+A childhood friend, Yrrth Mid, got killed by a mysterious poison in front of me when I was 22,
+and I believe more knowledge about the poison can be found in the tower archives. 
+My goal is to gain the trust of the tower arcanists to allow me to research at my leisure.
 
 
 ---------------------------------------------------------------------------------------------------
@@ -240,9 +308,9 @@ ABILITIES
 ?
 
 WEAPON          TO HIT     DAMAGE             Range        FACING        CHARACTER
-?               ?          ? Mega TYPE        ?            ?             ?
+Longsword       ?          1d8 ( 1d10 )       5ft          ?             ?
 ---------------------------------------------------------------------------------------------------
-EQUIPMENT    CREDITS: ? (GOLD SYSTEM TO CREDITS CONVERSION: 5g 7s 3c = 5.73C)
+EQUIPMENT    CREDITS: 20c (GOLD SYSTEM TO CREDITS CONVERSION: 5g 7s 3c = 5.73C)
 WEAPONS (EXAMPLE WEAPON ENTRY: QUANTITY, RARITY, NAME, DAMAGE, PROPERTIES)
 1x  (c) Longsword
 1x  (c) Light Crossbow
@@ -258,6 +326,11 @@ GEAR (EXAMPLE GEAR ENTRY: QUANTITY, RARITY, NAME, MISC INFO)
 10x (c) Sheet of Parchment
 1x  (c) Little Bag of Sand
 1x  (c) A Small Knife
+1x  (c) Book of Physiology
+1x  (c) Needle and String
+1x  (c) Doctor's Uniform
+1x  (c) Pouch of 10 GP
+1x  (c) Healer's Kit - 10/10 USES
 
 ---------------------------------------------------------------------------------------------------
 DATAPAD 1297649: 0/2000 PAGES USED
