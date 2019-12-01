@@ -6,27 +6,27 @@ ALIGNMENT        FAITH    GENDER   SIZE    EYES                     HAIR   SKIN 
 chaotic nuetral  ?        M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color   87    5'1"     160lb
 ---------------------------------------------------------------------------------------------------
 MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE
-10          10              0         3/3 ( 1d10 )  ?         ?       2       ?
+10          10              0         3/3 ( 1d10 )  +3        17      2       30ft
 ---------------------------------------------------------------------------------------------------
 DEFENSES (R/I/V)   CONDITIONS
 None               None
 ---------------------------------------------------------------------------------------------------
-STATS              SAVES (X/P)    PASSIVES                    SENSES
-STR: (+0) 10       STR: X +0      INT (Investigation) +10     ?
-DEX: (+0) 10       DEX: X +0      WIS (Insight)       +10
-CON: (+0) 10       CON: X +0      WIS (Perception)    +10
-INT: (+2) 10       INT: X +2
-WIS: (+0) 10       WIS: X +0
-CHA: (+1) 10       CHA: X +2
+STATS              SAVES (X/P)          PASSIVES                    SENSES
+STR: (+0) 10       STR: 0 + 0 = +0     INT (Investigation) 16       ?
+DEX: (+3) 17       DEX: 3 + 0 = +3     WIS (Insight)       10
+CON: (+2) 15       CON: 2 + 0 = +2     WIS (Perception)    10
+INT: (+4) 18       INT: 3 + 2 = +5
+WIS: (+0) 10       WIS: 0 + 0 = +0
+CHA: (-1) 9        CHA:-1 + 2 = +1
 ---------------------------------------------------------------------------------------------------
 SKILLS (X/P/E)
-(X) Acrobatics      +0      (X) Insight       +0      (X) Persuasion      +0
-(X) Animal Handling +0      (X) Intimidatio   +0      (X) Piloting        +0
-(X) Arcana          +2      (X) Investigation +2      (X) Religion        +0
-(X) Athletics       +0      (X) Medicine      +2      (X) Sleight of Hand +0
-(X) Data            +0      (X) Nature        +0      (x) Stealth         +0
-(X) Deception       +0      (X) Perception    +0      (X) Survival        +0
-(X) History         +2      (X) Performance   +0      (X) Technology      +0
+(X) Acrobatics      +3      (X) Insight       +0      (X) Persuasion      -1
+(X) Animal Handling +0      (X) Intimidatio   -1      (X) Piloting        +0
+(p) Arcana          +6      (p) Investigation +6      (X) Religion        +4
+(X) Athletics       +0      (p) Medicine      +2      (X) Sleight of Hand +3
+(X) Data            +0      (X) Nature        +4      (x) Stealth         +3
+(X) Deception       -1      (X) Perception    +0      (X) Survival        +0
+(p) History         +6      (X) Performance   -1      (X) Technology      +0
 ---------------------------------------------------------------------------------------------------
 PROFICIENCIES
 Armor:     light armor, medium armor, heavy armor
