@@ -22,9 +22,9 @@ CHA: (-1) 9        CHA:-1 + 2 = +1
 SKILLS (X/P/E)
 (X) Acrobatics      +3      (X) Insight       +0      (X) Persuasion      -1
 (X) Animal Handling +0      (X) Intimidatio   -1      (X) Piloting        +0
-(p) Arcana          +6      (p) Investigation +6      (X) Religion        +4
+(x) Arcana          +4      (p) Investigation +6      (X) Religion        +4
 (X) Athletics       +0      (p) Medicine      +2      (X) Sleight of Hand +3
-(X) Data            +0      (X) Nature        +4      (x) Stealth         +3
+(p) Data            +6      (X) Nature        +4      (x) Stealth         +3
 (X) Deception       -1      (X) Perception    +0      (X) Survival        +0
 (p) History         +6      (X) Performance   -1      (X) Technology      +0
 ---------------------------------------------------------------------------------------------------
@@ -178,9 +178,8 @@ object is a magic item, you feel an intense amount of
 energy, but can't directly determine the
 type of item, or its properties.
 
-Combat Casting. Being within 5 feet of a hostile
-creature doesn’t impose disadvantage on your ranged spell
-attack rolls.
+Hand-and-a-half
++1/+1 when 2-handing a versatile weapon
 
 Spell Channeling
 By 2nd level, you have mastered the art of channeling
@@ -307,17 +306,17 @@ Cargo:  ?
 ABILITIES
 ?
 
-WEAPON                  TO HIT     DAMAGE                   Range        FACING        CHARACTER
-Force Laser Sword       ?          1d8 ( 1d10 ) Force       5ft          ?             ?
+WEAPON                  TO HIT                   DAMAGE                     Range        FACING        CHARACTER
+Force Laser Sword       +5 ( +1 if 2-handing )   1d8 ( 1d10 +1 ) +3 Force   5ft          ?             ?
+Swarm Pistol            +5                       1d4                        30ft/90ft
 ---------------------------------------------------------------------------------------------------
 EQUIPMENT    CREDITS: 20c (GOLD SYSTEM TO CREDITS CONVERSION: 5g 7s 3c = 5.73C)
 WEAPONS (EXAMPLE WEAPON ENTRY: QUANTITY, RARITY, NAME, DAMAGE, PROPERTIES)
 1x  (c) Force Laser Sword 1d8 Force Damage, Finesse, Special, Versatile ( 1d10 )
-1x  (c) Light Crossbow
+1x  (c) Swarm Pistol 2d4 radiant damage, automatic, blaster ( range 30/90 ), foregrip, light
 
 GEAR (EXAMPLE GEAR ENTRY: QUANTITY, RARITY, NAME, MISC INFO)
 1x  (C) Backback
-20x (c) Bolts
 1x  (c) Monoplate Suit               AC = 14 + Dex, Stealth DA
 1x  (c) Material Component Pouch
 1x  (c) Book of Lore
