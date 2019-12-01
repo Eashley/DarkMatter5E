@@ -6,7 +6,7 @@ ALIGNMENT        FAITH    GENDER   SIZE    EYES                     HAIR   SKIN 
 chaotic nuetral  ?        M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color   87    5'1"     160lb
 ---------------------------------------------------------------------------------------------------
 MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE
-28          28              0         3/3 ( 1d10 )  +3        17      2       30ft
+28          28              0         3/3 ( 1d10 )  +3        16      2       30ft
 ---------------------------------------------------------------------------------------------------
 DEFENSES (R/I/V)   CONDITIONS
 None               None
@@ -318,7 +318,7 @@ WEAPONS (EXAMPLE WEAPON ENTRY: QUANTITY, RARITY, NAME, DAMAGE, PROPERTIES)
 GEAR (EXAMPLE GEAR ENTRY: QUANTITY, RARITY, NAME, MISC INFO)
 1x  (C) Backback
 20x (c) Bolts
-1x  (c) Scale Mail               AC = 14 + Dex, Stealth DA
+1x  (c) Monoplate Suit               AC = 14 + Dex, Stealth DA
 1x  (c) Material Component Pouch
 1x  (c) Book of Lore
 1x  (c) Bottle of Ink
