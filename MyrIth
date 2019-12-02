@@ -4,10 +4,10 @@ From the Maw Icthyggd'drad
 Lv 3 Order of Blinknights Channeler - see: https://drive.google.com/file/d/0B_73NA7vK-0ONHV5cE1vdmt6d0k/view
 ---------------------------------------------------------------------------------------------------
 ALIGNMENT        FAITH    GENDER   SIZE    EYES                     HAIR   SKIN                        AGE   HEIGHT   WEIGHT
-chaotic nuetral  ?        M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color   87    5'1"     160lb
+chaotic nuetral  Science  M        Medium  Vibrant Green Eyespots   none   Translucent Varying Color   87    5'1"     160lb
 ---------------------------------------------------------------------------------------------------
 MAX HP      CURRENT HP      TEMP      HIT DICE      INIT      AC      PROF    MOVE  ARCANA PTS
-28          28              0         3/3 ( 1d10 )  +3        16      2       30ft  6/6
+28          16              0         3/3 ( 1d10 )  +3        16      2       30ft  2/6
 ---------------------------------------------------------------------------------------------------
 DEFENSES (R/I/V)   CONDITIONS
 None               None
@@ -42,6 +42,13 @@ WEAPON                  TO HIT                   DAMAGE                     Rang
 Force Laser Sword       +5 ( +1 if 2-handing )   1d8 ( 1d10 +1 ) +3 Force   5ft
 Swarm Pistol            +5                       1d4                        30ft/90ft
 ---------------------------------------------------------------------------------------------------
+Arcana Point Cost
+Spell Level |Point Cost
+1st         |2
+2nd         |3
+3rd         |5
+4th         |6
+5th         |7
 
 SPELLS:
 Cantrips:
@@ -130,12 +137,6 @@ and I believe more knowledge about the poison can be found in the tower archives
 My goal is to gain the trust of the tower arcanists to allow me to research at my leisure.
 
 ---------------------------------------------------------------------------------------------------
-ATTACKS
-WEAPON                  TO HIT                   DAMAGE                     Range
-Force Laser Sword       +5 ( +1 if 2-handing )   1d8 ( 1d10 +1 ) +3 Force   5ft
-Swarm Pistol            +5                       1d4                        30ft/90ft
-
----------------------------------------------------------------------------------------------------
 RACIAL FEATURES
 Flexible Form. You can use your action to stretch,
 compress, and mold your body into a myriad of shapes.
@@ -210,13 +211,7 @@ require spell slots and therefore don’t require arcana points.
 The Channeler table shows how many arcana points you
 have and when your point pool increases. You regain all
 expended arcana points when you finish a long rest.
-Arcana Point Cost
-Spell Level |Point Cost
-1st         |2
-2nd         |3
-3rd         |5
-4th         |6
-5th         |7
+
 
 Spells Known of 1st Level or Higher
 You know four first-level spells of your choice from the
@@ -311,8 +306,6 @@ ABILITIES
 ?
 
 WEAPON                  TO HIT                   DAMAGE                     Range        FACING        CHARACTER
-Force Laser Sword       +5 ( +1 if 2-handing )   1d8 ( 1d10 +1 ) +3 Force   5ft          ?             ?
-Swarm Pistol            +5                       1d4                        30ft/90ft
 ---------------------------------------------------------------------------------------------------
 EQUIPMENT    CREDITS: 20c (GOLD SYSTEM TO CREDITS CONVERSION: 5g 7s 3c = 5.73C)
 WEAPONS (EXAMPLE WEAPON ENTRY: QUANTITY, RARITY, NAME, DAMAGE, PROPERTIES)
